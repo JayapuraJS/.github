@@ -1,3 +1,3 @@
-# Jayapura JavaScript User Group
+### Jayapura JavaScript User Group
 
 > Share, Improve, Repeat
